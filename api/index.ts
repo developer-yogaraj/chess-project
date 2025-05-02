@@ -1,2 +1,1 @@
-import { handler } from '../src/main.handler';
-export default handler;
+module.exports = require('../dist/main');
