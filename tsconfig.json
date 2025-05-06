@@ -18,8 +18,9 @@
     "strictBindCallApply": false,
     "noFallthroughCasesInSwitch": false,
     "esModuleInterop": true,
-    "strict": true
+    "strict": true,
+    "strictPropertyInitialization": false
   },
-  "include": ["src/**/*.ts"],
+  "include": ["src/**/*.ts"],  
   "exclude": ["node_modules"]
 }
